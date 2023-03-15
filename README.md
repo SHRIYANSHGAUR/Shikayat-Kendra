@@ -1,4 +1,4 @@
-# Shikayat-Kendra
+# Shikayat-Kendra | 3rd Prize Winner at HackOverFlow6.0 || N.I.T. Durgapur 
 ## A Full stack ( React - Java Spring Boot - MySql) application for Online Complaint Management
 ### The Frontend is made using REACTJS which consumes the RestApi using Axios library.
 ### The Backend is powered using SpringBoot which is a REST-API written in Java , SpringBoot uses JPA for Object Relational Mapping (ORM) which makes writing restapi calls easier as we dont have to write SQL queries on our own JPA does that for us.
